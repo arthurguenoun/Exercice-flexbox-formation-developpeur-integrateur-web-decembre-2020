@@ -1,0 +1,61 @@
+html {
+	height: 100%;
+}
+html {
+	height: 100%;
+}
+
+body{
+	width: 100%;
+	margin: 0;
+	height: 100%;
+}
+
+header {
+	background-color: yellow;
+	text-align: center;
+	height: 7%;
+}
+h1 {
+	margin:0;
+	font-size: 15px;
+	font-weight: 100px;
+	padding: 15px 0;
+}
+
+nav {
+	background-color: skyblue;
+	text-align: center;
+	height: 4%;
+
+}
+section {
+	text-align: center;
+	height:calc( 100vh - 15%);
+	display: flex;
+}
+
+footer {
+	background-color: yellow;
+	text-align: center;
+	height: 4%
+}
+
+h2{
+	margin:0;
+	font-size: 15px;
+	font-weight: 100px;
+	padding: 5px 0;
+}
+
+
+#main{
+	width: 80%;
+}
+
+aside {
+	border-left : 2px solid red;
+	width: 20%
+}
+
+
